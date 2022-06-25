@@ -1,4 +1,4 @@
-##LT Debug 
+# LT Debug 
 
 The best chrome extension to debug web issues and accelerate your development :fire::rocket:
 
